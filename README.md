@@ -8,6 +8,9 @@ This project will be all about defining and training a convolutional neural netw
 
 - <b>Youtube Faces Dataset</b>
 
+<h2>Research Paper Used</h2>
+"Facial Key Points Detection using Deep Convolutional Neural Network - NaimishNet", Naimish Agarwal et. al
+
 <h2>Language Used</h2>
 
 - <b>Python</b> 
